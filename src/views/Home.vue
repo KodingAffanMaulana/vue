@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import Welcome from "@/components/Welcome.vue";
 import Navbar from "@/components/Navbar.vue";
-import Avatar from "@/views/Avatar.vue"
 </script>
 
 <template>

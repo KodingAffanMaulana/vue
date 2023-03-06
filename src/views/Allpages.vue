@@ -7,7 +7,7 @@ import { ref } from "vue";
 const isOpen = ref(false);
 const selected = ref([]);
 
-import VBreadcrumbs, { type VBreadcrumbItem } from "@gits-id/breadcrumbs";
+// import VBreadcrumbs, { type VBreadcrumbItem } from "@gits-id/breadcrumbs";
 
 const items = ref<VBreadcrumbItem[]>([
   {
