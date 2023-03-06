@@ -12,7 +12,7 @@ const menus = [
     {
         text: "All Pages",
         to: "/allpages"
-    },
+    }
 ];
 </script>
 
