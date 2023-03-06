@@ -17,6 +17,16 @@ const router = createRouter({
       path: "/auto",
       name: "auto",
       component: () => import("@/views/Auto.vue")
+    },
+    {
+      path: "/avatar",
+      name: "Avatar",
+      component: () => import("@/views/Avatar.vue")
+    },
+    {
+      path: "/allpages",
+      name: "All Pages",
+      component: () => import("@/views/Allpages.vue")
     }
   ],
 });

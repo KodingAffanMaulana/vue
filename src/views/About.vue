@@ -6,7 +6,6 @@ import VAppBar from "@gits-id/app-bar";
 <template>
     <Navbar />
     <div class="p-6">
-        <h2>About</h2>
-        <VAppBar color="primary">Testing VAppBar</VAppBar>
+        <h2 class="text-center">About</h2>
     </div>
 </template>

@@ -9,6 +9,10 @@ const menus = [
         text: "About",
         to: "/about"
     },
+    {
+        text: "All Pages",
+        to: "/allpages"
+    },
 ];
 </script>
 
